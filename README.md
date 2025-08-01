@@ -1,4 +1,4 @@
-# Fairness-Aware Dynamic Weight Optimization (FADO) Implementation
+# Bias-Aware Dynamic Weight Optimization (BADO) Implementation
 
 This repository demonstrates the implementation of the Fairness-Aware Dynamic Weight Optimization (FADO) for addressing class imbalance in machine learning tasks. FADO dynamically adjusts class weights during training based on model bias, providing robust performance even with heavily imbalanced datasets.
 
